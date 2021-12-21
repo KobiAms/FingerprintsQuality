@@ -1,0 +1,10 @@
+# OSX
+#
+.DS_Store
+
+# Datasets
+Dataset.zip
+Dataset/
+
+# virtual enviromant
+tensorflow-metal
